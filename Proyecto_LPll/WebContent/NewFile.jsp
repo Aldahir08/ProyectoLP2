@@ -10,7 +10,7 @@
 </head>
 <body>
 <div class="container">
-  <h1 align="center"> Pruebaa </h1>
+  <h1 align="center"> Prueba </h1>
   
   <!-- Button trigger modal -->
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
